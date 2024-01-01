@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung",
+    "image": "https://i.ibb.co/bm3TN0R/dsc04960-300.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Apple",
+    "image": "https://i.ibb.co/VY14zq4/p1003516-1-300.webp"
+  },
+  {
+    "id": 3,
+    "name": "Google",
+    "image": "https://i.ibb.co/wzZP1qr/samuel-angor-vn6-A4-UKMR3-I-unsplash-300.webp"
+  },
+  {
+    "id": 4,
+    "name": "Sony",
+    "image": "https://i.ibb.co/Jtpj2ND/d-c-tr-nh-1t1-CBECuqvs-unsplash-300.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi",
+    "image": "https://i.ibb.co/N1cYQ00/bagus-hernawan-A6-Jx-K37-Il-Po-unsplash-300.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Nothing",
+    "image": "https://i.ibb.co/sWsWxbb/Samsung-Galaxy-S23-Ultra-Fonearena-1-300.jpg"
+  }
+]
